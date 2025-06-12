@@ -38,7 +38,7 @@ The user enters a list of dinner options, and the app repeatedly draws random pi
 ---
 
 ## 📁 Project Structure (Key Files)
-
+'''
 📁 app/
 ├─ src/
 │ ├─ main/
@@ -49,7 +49,7 @@ The user enters a list of dinner options, and the app repeatedly draws random pi
 │ │ │ ├─ layout/
 │ │ │ ├─ values/ (colors, strings)
 │ │ ├─ assets/fireworks.json 🎆
-
+'''
 ---
 
 ## 👤 Author
